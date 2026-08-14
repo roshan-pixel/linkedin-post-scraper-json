@@ -1,11 +1,16 @@
 # 🕷️ LinkedIn Post Scraper & JSON Extractor
 
+> **⚡ Fast, autonomous LinkedIn post crawler & structured JSON extractor with virtual DOM `<main>` container scrolling, semantic leaf node extraction, and built-in deduplication.**
+
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Zero External Dependencies](https://img.shields.io/badge/Dependencies-Standard%20Library%20Only-brightgreen.svg)]()
 [![Platform: Cross-Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-orange.svg)]()
 
-A lightweight, robust, and beginner-friendly LinkedIn post scraper designed to harvest hundreds or thousands of public LinkedIn posts into clean, structured **JSON** with **zero external dependencies**.
+---
+
+### 📌 Short Description
+**A lightweight, beginner-friendly Python tool that hooks into an active browser session to harvest public LinkedIn posts across custom keywords or multi-topic research streams directly into clean, structured JSON.** Solves LinkedIn infinite-scroll traps, ignores useless URL pagination params, and handles full text, author, and timestamp extraction with zero external package installations.
 
 ---
 
