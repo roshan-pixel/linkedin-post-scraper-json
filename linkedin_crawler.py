@@ -4,7 +4,7 @@
 🚀 LinkedIn Post Crawler & Structured JSON Extractor
 ================================================================================
 Author: Roshan Singh (roshan-pixel)
-Repository: https://github.com/roshan-pixel/LINKED-IN-SACRAWLLER-FOR-EXTRACTING-POST-JSON
+Repository: https://github.com/roshan-pixel/linkedin-post-scraper-json
 Description:
     Autonomous LinkedIn post crawler that hooks into an active, authenticated
     browser session (via Kimi WebBridge / Chrome CDP) and harvests posts into

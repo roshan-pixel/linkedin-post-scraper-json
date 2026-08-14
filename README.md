@@ -52,8 +52,8 @@ graph TD
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/roshan-pixel/LINKED-IN-SACRAWLLER-FOR-EXTRACTING-POST-JSON.git
-cd LINKED-IN-SACRAWLLER-FOR-EXTRACTING-POST-JSON
+git clone https://github.com/roshan-pixel/linkedin-post-scraper-json.git
+cd linkedin-post-scraper-json
 ```
 
 ### 3. Run the Interactive 1-Click Runner
