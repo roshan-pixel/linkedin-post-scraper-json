@@ -1,0 +1,20 @@
+[
+  {
+    "post_id": "post_184729104",
+    "query": "cybersecurity zero day vulnerability",
+    "sort_by": "date_posted",
+    "author": "Mandiant Threat Intelligence",
+    "preview": "Feed post\n\nMandiant Threat Intelligence\n\n1d • \n\nFollow\n\n🚨 New Analysis: Tracking state-sponsored threat actors exploiting edge perimeter appliances...",
+    "full_text": "Feed post\n\nMandiant Threat Intelligence\n\n1d • \n\nFollow\n\n🚨 New Analysis: Tracking state-sponsored threat actors exploiting edge perimeter appliances.\n\nOur latest report breaks down evasion techniques observed across critical infrastructure intrusions, including the use of customized rootkits and memory-only persistence.\n\nKey Recommendations:\n1. Audit all public-facing management interfaces\n2. Enforce phishing-resistant MFA across all accounts\n3. Review edge device integrity logs\n\nRead our complete research memo linked below. #CyberSecurity #ThreatIntel #ZeroDay",
+    "collected_at": "2026-08-14T15:30:00.000Z"
+  },
+  {
+    "post_id": "post_958371920",
+    "query": "CISA advisory",
+    "sort_by": "latest",
+    "author": "CISA Cybersecurity Division",
+    "preview": "Feed post\n\nCISA Cybersecurity Division\n\n3d • \n\nFollow\n\nCISA has added 4 new vulnerabilities to its Known Exploited Vulnerabilities Catalog...",
+    "full_text": "Feed post\n\nCISA Cybersecurity Division\n\n3d • \n\nFollow\n\nCISA has added 4 new vulnerabilities to its Known Exploited Vulnerabilities Catalog. Federal Civilian Executive Branch agencies must apply mitigations by the specified due date to protect their networks against active exploitation.",
+    "collected_at": "2026-08-14T15:31:00.000Z"
+  }
+]

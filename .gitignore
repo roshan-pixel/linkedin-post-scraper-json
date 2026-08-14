@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+
+# Output logs and dumps
+*.log
+temp_*.json
+temp_*.png
+my_linkedin_posts.json
+scraped_posts.json
